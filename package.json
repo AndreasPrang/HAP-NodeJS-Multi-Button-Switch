@@ -1,0 +1,13 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "An example description for your example project",
+    "main": "light.js",
+    "author": "Example Name <mail@example.com>",
+    "license": "ISC",
+  
+    "dependencies": {
+      "hap-nodejs": "latest"
+ 
+    }
+}
